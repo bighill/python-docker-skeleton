@@ -1,10 +1,5 @@
 # python-docker-skeleton
-jumping off point for dockerized python
-
-start
-```bash
-docker-compose up -d
-```
+jumping off point for dockerized python3 & mysql
 
 terminal access to container
 ```bash
